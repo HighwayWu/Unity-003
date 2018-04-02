@@ -6,7 +6,7 @@
 
 不过在写了几个简单的shader之后感觉也就是顶点着色器跟片元着色器需要自定义式的编程，其他的阶段目前还没有大刀阔斧的改动。。
 
-第一个渲染器诶，虽然只是染了个七彩的颜色。。(具体代码看Shader/.shader文件吧)
+第一个渲染器诶，虽然只是染了个七彩的颜色。。(具体代码看Assets/Shader/.shader文件吧)
 
 ![image](https://github.com/HighwayWu/Unity-003/raw/master/Screenshot/图片1.png)
 
