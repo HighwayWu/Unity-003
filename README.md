@@ -40,4 +40,4 @@
 
 啊感觉好多地方一知半解的。。估计下次还是要重新复习一遍。。
 
-Reference: 《Unity Shader 入门精要》
+Reference:  《Unity Shader 入门精要》
