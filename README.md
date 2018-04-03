@@ -14,7 +14,7 @@
 
 左中右: 逐顶点漫反射、逐像素漫反射、半兰伯特模型
 
-![image](https://github.com/HighwayWu/Unity-003/raw/master/Screenshot/图片2.png)
+![image](https://github.com/HighwayWu/Unity-003/raw/master/Screenshot/图片2_1.png)
 
 从背面看还是半兰伯特模型能比较好的处理背光区的模型细节，其余两个仿佛受到了降维打击。。
 
@@ -24,7 +24,7 @@
 
 左中右: 高光逐顶点光照、高光逐像素光照、高光Blinn-Phong光照模型 (反正我是看不出来有啥大的区别。。)
 
-![image](https://github.com/HighwayWu/Unity-003/raw/master/Screenshot/图片4.png)
+![image](https://github.com/HighwayWu/Unity-003/raw/master/Screenshot/图片4_1.png)
 
 ![image](https://github.com/HighwayWu/Unity-003/raw/master/Screenshot/图片5.png)
 
@@ -32,7 +32,7 @@
 
 左中右: 单张纹理、切线空间(Bump Scale = -1, 凸起来了)、世界空间(Bump Scale = 1, 凹下去了) (都好难看。。)
 
-![image](https://github.com/HighwayWu/Unity-003/raw/master/Screenshot/图片6.png)
+![image](https://github.com/HighwayWu/Unity-003/raw/master/Screenshot/图片6_1.png)
 
 几个不同的渐变纹理控制漫反射光照: 
 
